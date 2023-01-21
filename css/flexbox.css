@@ -57,3 +57,15 @@
     margin-left: 0;
 
 }
+
+/*parte mobile*/
+
+.cabecalhoPrincipal .container{
+    flex-direction:column;
+    align-items: initial;
+    text-align: center;
+}
+
+.cabecalhoPrincipal-nav {
+    flex-direction:column;
+}
