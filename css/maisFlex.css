@@ -27,6 +27,6 @@ div:nth-child(8) { background-color: silver; }
     /*flex-grow: 3;*/
     /*flex-shrink: 2;*/
     /*o primeiro valor equivale ao grow e o segundo ao shrink*/
-    flex: 0 1;
-    flex-basis: 200px;
+    flex: 0 1 25%;
+    /*flex-basis: 200px;*/
 }
