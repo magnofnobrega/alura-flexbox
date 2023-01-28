@@ -24,5 +24,6 @@ div:nth-child(8) { background-color: silver; }
 }
 
 .primeiro {
-    flex-grow: 3;
+    /*flex-grow: 3;*/
+    flex-shrink: 2;
 }
