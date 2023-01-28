@@ -14,5 +14,6 @@ div:nth-child(8) { background-color: silver; }
     display: flex;
     /*justify-content: space-between;*/
     justify-content: space-around;
+    align-items: center;
 }
 
