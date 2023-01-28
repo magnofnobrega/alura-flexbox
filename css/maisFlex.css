@@ -12,6 +12,6 @@ div:nth-child(8) { background-color: silver; }
 
 .flexContainer {
     display: flex;
-    
+    justify-content: space-between;
 }
 
