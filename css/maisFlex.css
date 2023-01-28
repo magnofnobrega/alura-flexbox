@@ -20,6 +20,9 @@ div:nth-child(8) { background-color: silver; }
 }
 
 .flex-Item {
-    flex-grow: 1;
+    flex-grow: 2;
 }
 
+.primeiro {
+    flex-grow: 3;
+}
